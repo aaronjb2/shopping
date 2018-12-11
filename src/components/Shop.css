@@ -1,0 +1,26 @@
+.product-box{
+    position: relative;
+    left: 33.5%;
+    height: 37vh;
+    width: 33vw;
+    border: 3px solid black;
+}
+
+.image-box{
+    position:relative;
+    height:25%;
+    width: 25%;
+    left:37.5%;
+    
+}
+
+.image{
+    position:relative;
+    height:100%;
+    
+}
+
+.input{
+    position:relative;
+    width: 30px;
+}

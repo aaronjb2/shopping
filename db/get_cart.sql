@@ -1,0 +1,2 @@
+select ecommerce_product.id,ecommerce_product.name,ecommerce_product.image,ecommerce_product.price,ecommerce_cart.quantity from ecommerce_cart 
+inner join ecommerce_product on ecommerce_cart.id = ecommerce_product.id order by ecommerce_product.id;

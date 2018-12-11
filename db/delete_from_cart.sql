@@ -1,0 +1,1 @@
+delete from ecommerce_cart where id = $1;
